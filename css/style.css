@@ -1,20 +1,12 @@
 .container-fluid
 {
-<<<<<<< HEAD
     border-color: blue;
-=======
-    border-color: crimson;
->>>>>>> e59f59adb24bf38f54667b09a791280dc524800b
     
 }
 #dylan
 {
-<<<<<<< HEAD
     width: 50px;
     height: 50px;
-=======
-    width: 500px;
->>>>>>> e59f59adb24bf38f54667b09a791280dc524800b
     
     border: solid;
     border-color: white;
@@ -22,20 +14,11 @@
 h1
 {
     font-family: sans-serif;
-<<<<<<< HEAD
     color: black;
-=======
-    color: crimson;
->>>>>>> e59f59adb24bf38f54667b09a791280dc524800b
 }
 p
 {
     font-family: sans-serif;
-<<<<<<< HEAD
     
     color: rgb(22, 10, 124);
 }
-=======
-    color: rgb(22, 10, 124);
-}
->>>>>>> e59f59adb24bf38f54667b09a791280dc524800b
